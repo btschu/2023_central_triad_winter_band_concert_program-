@@ -817,9 +817,9 @@ section {
   margin-right: 0;
 }
 
-/* .program .program-item {
-  margin-top: 25px;
-} */
+.program .program-item {
+  margin-bottom: 25px;
+}
 
 .program .program-content {
   /* margin-left: 300px; */
