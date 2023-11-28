@@ -1,10 +1,3 @@
-/**
-* Template Name: Restaurantly - v3.9.1
-* Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -154,7 +147,7 @@ h6 {
   font-weight: 300;
   letter-spacing: 1px;
   /* text-transform: uppercase; */
-  font-family: "Henny Penny", cursive, sans-serif;
+  font-family: "Kaushan Script", cursive, sans-serif;
 }
 
 #header .logo span {
@@ -435,7 +428,7 @@ h6 {
   font-weight: 1000;
   line-height: 56px;
   color: #fff;
-  font-family: "Henny Penny", fantasy, sans-serif;
+  font-family: "Kaushan Script", fantasy, sans-serif;
 }
 
 #hero h1 span {
@@ -658,7 +651,7 @@ section {
   margin: 0;
   font-size: 46px;
   font-weight: 700;
-  font-family: "Henny Penny", fantasy, sans-serif;
+  font-family: "Kaushan Script", fantasy, sans-serif;
   color: #da1419;
 }
 
@@ -731,7 +724,7 @@ section {
   font-weight: 700;
   color: #da1419;
   margin-bottom: 20px;
-  font-family: "Henny Penny", cursive, sans-serif;
+  font-family: "Kaushan Script", cursive, sans-serif;
 }
 
 .students .box h4 {
@@ -774,7 +767,7 @@ section {
 
 #program h2 span {
   color: #da1419;
-  font-family: "Henny Penny", cursive, sans-serif;
+  font-family: "Kaushan Script", cursive, sans-serif;
 }
 
 .card {
@@ -1036,7 +1029,7 @@ section {
 }
 
 #footer h3 {
-  font-family: "Henny Penny", cursive, sans-serif;
+  font-family: "Kaushan Script", cursive, sans-serif;
   font-size: 44px;
 }
 
